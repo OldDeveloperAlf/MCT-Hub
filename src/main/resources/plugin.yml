@@ -1,0 +1,6 @@
+name: MCT-HUB
+version: 1qp9
+description: Project created exclusively for Demons Network. (HUB).
+main: com.mcservice.hubcore.HubPlugin
+author: MCTeams Developemnt Team
+depend: [Vault, ProtocolLib]
