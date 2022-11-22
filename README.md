@@ -1,5 +1,5 @@
 # MCTeams Hub
- Project created exclusively for MCTeams Network. (HUB).
+Project created exclusively for MCTeams Network. (HUB).
 
 ###### This is a brief description about the plugin and its author
 
